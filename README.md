@@ -1,5 +1,5 @@
 # cloud-computing
-A Records of my cloud computing paths
+A Records of my cloud computing paths.
 
 ###
 MS-AZURE(Github student developer pack)
