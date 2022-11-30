@@ -28,6 +28,12 @@ Finalize and click on Launch instance
 CLick on your instance and copy public ip 
 ![image](https://user-images.githubusercontent.com/72144717/204781632-0a558e1c-9abe-443a-9a4d-24791a44907e.png)
 
-###![PuTTy- A ssh connection platform] (https://www.putty.org/)
-###![FileZilla- a Remote File explorer to share files between LOcan and Virtual machine](https://filezilla-project.org/)
+### [PuTTy- A ssh connection platform] (https://www.putty.org/)
+### [FileZilla- a Remote File explorer to share files between LOcan and Virtual machine](https://filezilla-project.org/)
 
+### [Hadoop](https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-in-stand-alone-mode-on-ubuntu-20-04)
+### [Map Reduce Word Count Program](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html)
+
+Follow instructions and You can run Programs from terminal itsel
+
+Or if You want to use Remote desktop 
